@@ -17,3 +17,6 @@ button:hover {
 .hidden {
   display: none;
 }
+#results-list li {
+  margin-bottom: 50px;
+}
